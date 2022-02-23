@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of an ignoramus doctor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31726</idno>
+            <idno type="STC">Wing C2009</idno>
+            <idno type="STC">ESTC R34797</idno>
+            <idno type="EEBO-CITATION">14715250</idno>
+            <idno type="OCLC">ocm 14715250</idno>
+            <idno type="VID">102725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of an ignoramus doctor</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Titus Oates.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:102725:1"/>
+            <head>THE CHARACTER OF AN Ignoramus DOCTOR.</head>
+            <p>AN <hi>Ignoramus Doctor</hi> is a certain <hi>Duncical Dolt,</hi> who is as much a <hi>Doctor,</hi> as <hi>Osborn</hi>'s ragged Colt was a <hi>Sturgeon. Hang</hi> him out, and he may indeed ſerve for the <hi>Sign</hi> of <hi>one,</hi> but has really no more Right to the <hi>Habit,</hi> than an <hi>Algerine</hi> to wear <hi>Chriſtian Colours:</hi> Let's ſtrip therefore his Gown over his Ears, and 'twill quickly appear, what a <hi>Monſtrous REPRESENTATIVE Beast</hi> he is. To begin then with his <hi>Noddle;</hi> as Dull and Blockiſh it is as the <hi>Beetle</hi>'s. In his <hi>Brazen Forehead</hi> is writ <hi>ABOMINATION.</hi> His <hi>Fyes</hi> are <hi>Murdering</hi> as the <hi>Baſilisk</hi>'s; tho' <hi>Blindiſh</hi> too as the <hi>Batt</hi>'s. With his <hi>Screech-Owl</hi>'s <hi>Voice,</hi> he bodes Death and Deſtruction. His <hi>Tongue,</hi> like the <hi>Serpent</hi>'s, is <hi>Forked</hi> and <hi>Double.</hi> His <hi>Mouth,</hi> with that of the <hi>Revelation-Beaſt,</hi> ſpeaks <hi>Lies</hi> and <hi>Blaſphemies,</hi> and out of it iſſues Wild-fire, in which (tho' others are conſum'd) the <hi>Salamander-Fiend</hi> himſelf, ſubſiſts. His <hi>Throat</hi> is an <hi>open Sepulchre,</hi> and no <hi>Camel</hi> was ever ſo big as to choak him. Like the <hi>Fabulous Minotaur,</hi> he really <hi>lives</hi> upon <hi>Humane Entrails,</hi> and is fed with the <hi>Quarters</hi> of <hi>Sacrific'd Men,</hi> and glutted with their Bloud, the Unchriſten'd <hi>Canibal</hi> looks <hi>Fluſh</hi> and <hi>Ruddy.</hi> No Morſel is ſo <hi>Hard</hi> and <hi>Bloudy,</hi> but his <hi>Oſtrich-Stomack</hi> can digeſt it: but to ſweeten the Stench of his Carrion-breath, the <hi>Savage</hi> for <hi>Deſſert</hi> chews Tobacco, and that, 'till it runs out of his Chaps again like Juice of <hi>Toad.</hi> With the <hi>Egyptian Frogs</hi> and <hi>Lice,</hi> he infeſts the <hi>Royal Palace,</hi> creeps into the <hi>King's Chambers,</hi> and like the <hi>Locuſt</hi> and <hi>Caterpillar</hi> devours his Bread; with which being Farting-full, the <hi>Harpy</hi> defiles and ſquirts upon the very Table that feeds him, and as the ſtarving <hi>Snake</hi> reviv'd, thruſts out his Sting at all that ever reliev'd him. Yet the <hi>Slave,</hi> when <hi>Hungry,</hi> is, as the <hi>Dog, I awning</hi> and <hi>Couchant:</hi> When in the leaſt Danger, <hi>Timorous,</hi> as the <hi>Rat;</hi> but guarded by his <hi>Whifflers</hi> the <hi>Rabble,</hi> as <hi>Bold</hi> as the <hi>Polecat.</hi> Lo! ſome of the <hi>Ingredients</hi> that go to the <hi>Compounding</hi> of this <hi>Non-ſuch-Sham-Doctor,</hi> this <hi>Hotch-pot</hi> of an <hi>Animal,</hi> which conſider'd aſunder are not only the <hi>Worst</hi> that can be, but in Him the <hi>Worst put together:</hi> for Review him as he is an <hi>Individuum,</hi> you will find him the Only One of a ſtrange <hi>Species</hi> never heard of before, for certainly nothing that ever yet breathed is like him.</p>
+            <p>The <hi>Monſter</hi> was begot (as ſome will have it) by the Gyant <hi>Typhon,</hi> in the ſhape of a <hi>Broken Tub-preaching Weaver,</hi> upon the Body of the foul Viper <hi>Echidna;</hi> tho', others ſay, he ſprung out of a <hi>Dunghill,</hi> of which in truth, he is the very <hi>Purging</hi> and <hi>Off-ſcouring.</hi> From the very time he cou'd crawl, he <hi>liv'd</hi> always on <hi>Waſh, Greazie Trenchers,</hi> and <hi>Arſe-guts;</hi> ſtill <hi>Needy, Naked,</hi> and <hi>Noyſome,</hi> as when he dropt from his <hi>Dam</hi> Unlick'd, and with all his Original Filth about him. His <hi>Breeding</hi> is as <hi>obſcure</hi> as his <hi>Birth,</hi> tho' we find that when he came to the Age of 30 he went to School; to get (as ſome thought) a little ſmattering in <hi>Latine,</hi> tho' really it was a Pretence to beg Bread. Nor was it long before the <hi>Younger Fry</hi> ſmelt him out, ſo that every little <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op-o'-my-Thumb</hi> made him a <hi>May-game:</hi> Some wou'd <hi>kick</hi> him, ſome <hi>grub,</hi> and <hi>tweak</hi> him by the Beard; others wou'd <hi>fillip</hi> at his Noſe; and every one had a fling at him, 'till finding him ſtill the ſame <hi>Idle Troubleſom Drone.</hi>
+               <pb n="2" facs="tcp:102725:2" rendition="simple:additions"/>they by common conſent quickly <hi>chas'd</hi> him away for altogether. But wherever he went, he was ſtill the <hi>Vomit</hi> and <hi>Nuſance</hi> of the Place, nay the <hi>Grievance</hi> of the very <hi>Scavengers</hi> themſelves: In his own Defence therefore, was always forc'd to be a <hi>Runagate</hi> and <hi>Vagabond. Beggary</hi> and <hi>Hunger</hi> ſtill purſuing him, <hi>Satan</hi> at laſt, by the Temptation of <hi>Fatneſs</hi> and <hi>Plenty,</hi> enter'd into him; and from that time, the <hi>Starvling</hi> made himſelf over, and <hi>contracted</hi> to become the <hi>First Son of Belial,</hi> the <hi>Sans-pareil Swearer, Hell's Narrative-Hawker,</hi> and <hi>the Devil's Affidavit-Drudge:</hi> In conſideration of which, he was promis'd <hi>three or four Diſhes a Meal;</hi> that he ſhould (like Dr. <hi>Fauſtus</hi>) fly over the World, <hi>
+                  <g ref="char:V">Ʋ</g>nſeen;</hi> and converſe <hi>Inviſibly</hi> with <hi>Grandees</hi> at <hi>Rome, Paris, Madrid, Salamanca,</hi> and moſt of the chief Cities upon Earth, nay ſhould be in ſeveral places at one time; That he ſhould have the pleaſure of frighting Thouſands out of their Wits, with <hi>Armies in the Air,</hi> and <hi>under Ground,</hi> and by <hi>Swearing,</hi> to make 'em believe what he pleas'd; That <hi>Tom Thumb</hi> ſlew the two Gyants <hi>Amarant</hi> and <hi>Colbron,</hi> and that the ſeven <hi>Champions</hi> Arm'd with <hi>Black-Bills</hi> and <hi>Muſtard-Balls,</hi> were Liſted to invade <hi>Property,</hi> and ſet up <hi>Popery;</hi> nay, and that in his own Favour, he ſhould make <hi>Black</hi> be call'd <hi>White; Non-ſence, Sence; Lies, Truth; Sawcineſs, Good-Manners;</hi> and <hi>Buggery, Chastity.</hi> That in all theſe his Adventures, he ſhould have the Aſſiſtance of his <hi>Familiars, Lucifer, Beelzebub,</hi> and <hi>Aſhteroth;</hi> and that, whatever miſchief he did, he ſhould, like <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain,</hi> have a <hi>Mark</hi> on him, (for a time at leaſt) that no body ſhould have power to kill him.</p>
+            <p>All this the <hi>Caitiff</hi> has, in ſome meaſure, ſeen fulfill'd; and being in a kind of Extaſie, by the ſeeming good luck of his <hi>Fool-hardy</hi> Villanies, he <hi>blunders</hi> on, ſeems to paſs away his Time well enough, <hi>Eats</hi> and <hi>Drinks</hi> like a <hi>Swine;</hi> has two or three <hi>Catch-Pole like Porkers</hi> to attend him, whoſe <hi>Poſteriors</hi> he often taw's, or (as Mother <hi>Creſwel</hi> terms it) <hi>Hogg's;</hi> and when he has rais'd his own Beaſtly Concupiſcence, <hi>Tilts</hi> at 'em with his <hi>Nasty Clyſter-Pipe.</hi> He puts the thoughts of his <hi>last Execution-day</hi> far from him; yet at preſent, <hi>LIES, Swears,</hi> and <hi>Blaſphemes,</hi> as if he were already plung'd in his Infernal Flames. <hi>SO HELP ME GOD,</hi> is the only Prayer he has power to make; nor that neither, but when he rams down a <hi>Lye</hi> with a <hi>Deadly Oath,</hi> which is his new <hi>Whiggiſh</hi> Phraſe, and <hi>Equivalent</hi> to <hi>GOD DAM<g ref="char:EOLunhyphen"/>ME,</hi> in earneſt: And in truth the <hi>Wretch</hi> is but <hi>juſt qualify'd</hi> to receive the <hi>Damna<g ref="char:EOLhyphen"/>tion,</hi> he ſeems <hi>predeſtinated</hi> himſelf to <hi>pray for;</hi> having no more <hi>Rationality,</hi> than ſerves to put him out of the Rank of down right <hi>Brutes;</hi> and that only, that he might not be ſo Happy as the <hi>Beast</hi> that periſhes.</p>
+            <p>Behold! the <hi>Engine-Idol</hi> which the <hi>Mobile</hi> once admir'd, as the <hi>Egyptians</hi> did <hi>Stinking Garlick, Dogs,</hi> and <hi>Crocodiles!</hi> The <hi>Will-o'th'-Wiſp,</hi> who with <hi>Falſe Fires</hi> led them into Quagmites and Ditches! Who with his <hi>Hurrican Contradictory Breath</hi> turn'd all things, as 'twere, Topſy-turvy, to a <hi>Miracle!</hi> for being in Himſelf an <hi>Object</hi> too <hi>vile</hi> for the <hi>Dogs</hi> to piſs upon, every Effect, of which he ſeems the Inſtrument, is really a <hi>Miracle;</hi> and ſhews how poor a <hi>Tool Providence</hi> can work with, nay, is enough to convince an <hi>
+                  <g ref="char:V">Ʋ</g>nbeliever,</hi> that a whole World may be made out of <hi>Nothing.</hi> But the <hi>Changling</hi> all this while, (tho' leſs than the pitiful <hi>Fly</hi> on the Cart-wheel) fan<g ref="char:EOLhyphen"/>cies he makes all the <hi>Rumbling,</hi> and like the <hi>Crackt brain Groom,</hi> conceits himſelf an <hi>Emperour.</hi> And ſo <hi>Pamper'd</hi> and <hi>Ireakiſh</hi> is he grown, that now he will neither <hi>lead</hi> nor <hi>drive,</hi> but kicks and flings at the very <hi>Jockeys</hi> who firſt rid him, and having broke his Halter, hurries on in his own <hi>Broad-way;</hi> But being come almoſt to his <hi>Journeys end,</hi> let him take his <hi>Swing,</hi> and ſo we bid him <hi>Adieu;</hi> for like a true <hi>Bro<g ref="char:EOLhyphen"/>migham Beggar on Horſe-back,</hi> he is <hi>really</hi> poſting <hi>Tantivy</hi> to the <hi>Devil.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M.T.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
